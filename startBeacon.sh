@@ -13,7 +13,7 @@
   --p2p-host-ip=88.99.94.109 \
   --p2p-tcp-port=13000 \
   --p2p-udp-port=12000 \
-  --min-sync-peers=1 \
+  --min-sync-peers=0 \
   --verbosity=info \
   --slots-per-archive-point=32 \
   --suggested-fee-recipient=0x8943545177806ED17B9F23F0a21ee5948eCaa776 \
