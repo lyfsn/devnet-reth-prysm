@@ -4,7 +4,7 @@
   --datadir=./consensus-data \
   --chain-config-file=./el-cl-genesis-data/custom_config_data/config.yaml \
   --genesis-state=./el-cl-genesis-data/custom_config_data/genesis.ssz \
-  --execution-endpoint=http://127.0.0.1:8851 \
+  --execution-endpoint=http://88.99.94.109:8851 \
   --rpc-host=0.0.0.0 \
   --rpc-port=4509 \
   --grpc-gateway-host=0.0.0.0 \
